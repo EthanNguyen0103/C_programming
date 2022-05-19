@@ -6,11 +6,16 @@ Date: 00-00-0000
 ------------------------------------------------------------------------------
 */
 #include <stdio.h>
-int main(){
-  int index =0;
-  while(index<10)
-  {
-    printf("%i\n",index);
-    index++;
-  }
+
+int main()
+{
+  int a =10;
+  int b =3;
+
+  (int) 12;
+
+  sizeof(int);
+
+  // asterisk *
+  
 }
